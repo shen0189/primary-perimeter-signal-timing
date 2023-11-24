@@ -1,0 +1,13 @@
+*__pycache__
+*.vscode
+network*
+output
+network/GridBuffer/DetectorMesurements.xml
+network/GridBuffer/EdgeMesurements_lower.csv
+network/GridBuffer/EdgeMesurements_lower.xml
+network/GridBuffer/EdgeMesurements.csv
+network/GridBuffer/EdgeMesurements.xml
+network/GridBuffer/GridBuffer.rou.xml
+network/GridBuffer/queue.xml
+network/GridBuffer/TLS_Program.xml
+network/GridBuffer/TLS_Switch.xml
